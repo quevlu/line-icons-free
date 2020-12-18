@@ -1,0 +1,26 @@
+{
+  "name": "@quevlu/line-icons-free",
+  "version": "1.0.0",
+  "description": "wrapper of line icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quevlu/line-icons-free.git"
+  },
+  "keywords": [
+    "lineicons",
+    "line",
+    "icons",
+    "free",
+    "webfont"
+  ],
+  "author": "quevlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quevlu/line-icons-free/issues"
+  },
+  "homepage": "https://github.com/quevlu/line-icons-free#readme"
+}
